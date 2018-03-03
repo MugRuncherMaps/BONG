@@ -1,2 +1,2 @@
-console.log("FUCK YOU");
+alert("FUCK YOU");
 
